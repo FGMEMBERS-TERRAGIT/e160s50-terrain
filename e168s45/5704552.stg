@@ -1,0 +1,9 @@
+OBJECT_BASE 5704552.btg
+OBJECT NZMJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.008201 -44.361617 9.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.006805 -44.358315 9.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.009808 -44.362888 11.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.014820 -44.361817 15.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.018883 -44.363572 13.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 168.014047 -44.367775 8.3 0.00
+OBJECT_SIGN {@Y}MARTINS_BAY 168.014952 -44.368516 7.7 231.93 4
